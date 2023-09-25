@@ -1,16 +1,12 @@
-### Hi there 👋
+# Welcome to my Coding Cove 💞
 
-<!--
-**kavyarachita/kavyarachita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 I'm a CS major at UVA ( Dec 2023 )
+- 💼 Seeking Full-time for 2024 in Software Dev / UX Design
+- 🤓 Top Languages: Java, Python, HTML, CSS, PHP, JS, SQL
+- 👩🏻‍💻 Frameworks: Django, React
+- 🧠 Skills: User Journeys, Personas, Wireframing, Prototyping, Agile Development, Scrum
+---
+📆 My Current Project >> A [Portfolio](https://kavyarachita.github.io) powered by ReactJS and GithubPages
+P.S This is my first time learning ReactJS 🤫
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+How am I doing? Connect with me on [Linkedin](https://www.linkedin.com/in/kavya-annapareddy-0209021b5/)
