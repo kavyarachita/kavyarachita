@@ -1,9 +1,9 @@
 # Welcome to my Coding Cove 💞
 
-- 📚 I'm a CS major at UVA ( Dec 2023 )
-- 💼 Seeking Full-time for 2024 in Software Dev / UX Design
+- 📚 Currently a CS Grad Student at Virginia Tech
+- 💼 Seeking Full-time for 2025 in Software Dev / UX Design
 - 🤓 Top Languages: Java, Python, HTML, CSS, PHP, JS, SQL
-- 👩🏻‍💻 Frameworks: Django, React
+- 👩🏻‍💻 Tools: Django, React, Docker, Kubernetes, Ansible
 - 🧠 Skills: User Journeys, Personas, Wireframing, Prototyping, Agile Development, Scrum
 ---
 📆 My Current Project >> A [Portfolio](https://kavyarachita.github.io) powered by ReactJS and GithubPages
